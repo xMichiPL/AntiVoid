@@ -1,8 +1,8 @@
 <p align="center">
        <a href="">
-	         🗣 Credits:
+	         🗣 **Credits**:
 
-**Author & Owner**: [Lover_BOY636](http://github.com/Lover_BOY636)<br>
+**Author & Owner**: [Lover_BOY636](http://github.com/BruhItzLover636YT)<br>
 **From**: Poland
 
 
